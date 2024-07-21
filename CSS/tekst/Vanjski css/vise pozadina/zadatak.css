@@ -1,0 +1,19 @@
+body {
+  background:
+  url(../../../images/fire.png) center 30%/20% no-repeat fixed,
+  url(../../../images/pattern.png),
+  url(../../../images/blossom.jpg) center/cover no-repeat fixed;
+
+  
+  color: rgba(255, 255, 255, 0.548);
+  font-family: Verdana, Tahoma, Geneva, sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  background-color: rgb(59, 58, 58);
+  text-align: center;
+}
+
+
+/* background: background-color background-image background-position/background-size background-repeat background-attachment  */
